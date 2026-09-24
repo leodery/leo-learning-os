@@ -9,7 +9,8 @@ build/
 *.log
 .DS_Store
 next-env.d.ts
-tsconfig.tsbuildinfo_ocr/
+tsconfig.tsbuildinfo
+_ocr/
 _new_ch*.json
 _merge_data.json
 start.bat
